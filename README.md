@@ -21,3 +21,8 @@ C++17
 <ui>
 <li>Windows</li>
 </ui>
+
+## 相关项目
+
+- [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) — 跨平台 FRP 桌面 GUI 客户端（Tauri v2 + Rust），支持 macOS 与 Windows
+- [fatedier/frp](https://github.com/fatedier/frp) — FRP 协议本体
